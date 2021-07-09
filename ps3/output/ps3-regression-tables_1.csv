@@ -1,0 +1,34 @@
+="Behavioral measurements gap between white students and other ethnicities in spring of kindergarten"
+
+="",="(1)",="(2)",="(3)",="(4)",="(5)",="(6)"
+="",="externalizing behavior",="internalizing behavior",="approach-to-learning",="externalizing behavior",="internalizing behavior",="approach-to-learning"
+
+="black",="0.257***",="0.0697***",="-0.265***",="0.115***",="0.0433***",="-0.0907***"
+="",="(17.71)",="(5.93)",="(-17.21)",="(11.35)",="(4.43)",="(-8.15)"
+
+="hispanic",="0.0194",="0.0350**",="-0.133***",="0.0146",="0.0124",="-0.0219*"
+="",="(1.43)",="(3.17)",="(-9.16)",="(1.54)",="(1.35)",="(-2.10)"
+
+="asian",="-0.164***",="-0.0850***",="0.151***",="-0.0677***",="-0.0647***",="0.104***"
+="",="(-7.96)",="(-5.08)",="(6.87)",="(-4.70)",="(-4.64)",="(6.59)"
+
+="other",="0.129***",="0.0879***",="-0.157***",="0.0475**",="0.0521***",="-0.0387*"
+="",="(6.00)",="(5.05)",="(-6.86)",="(3.17)",="(3.60)",="(-2.36)"
+
+="externalizing Problem - fall K",="",="",="",="0.730***",="",=""
+="",="",="",="",="(133.70)",="",=""
+
+="Internalizing Problem - fall K",="",="",="",="",="0.546***",=""
+="",="",="",="",="",="(86.45)",=""
+
+="Approach to Learning - fall K",="",="",="",="",="",="0.713***"
+="",="",="",="",="",="",="(126.64)"
+
+="Constant",="1.639***",="1.560***",="3.165***",="0.475***",="0.727***",="0.993***"
+="",="(250.01)",="(293.62)",="(453.77)",="(48.28)",="(68.58)",="(55.57)"
+
+="Observations",="16873",="16873",="16873",="16873",="16873",="16873"
+
+="t statistics in parentheses"
+="Note: First three columns include regression results without controling for fall measurements and the second three columns include results with controling of fall measurements. Whites measurements are omitted from the set, therefore all the coefficients are relative to that group"
+="* p<0.05, ** p<0.01, *** p<0.001"
